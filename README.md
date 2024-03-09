@@ -2,6 +2,12 @@
 
 내일이란 쫓아가는게 아니라 지금으로부터 만들어가는 것 입니다.
 
+*Libraries*: React.js
+
+*Styles*: css, styled-components
+
+State Managements: recoil
+
 <!--
 **Ethen1264/Ethen1264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
