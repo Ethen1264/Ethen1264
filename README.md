@@ -2,6 +2,8 @@
 
 내일이란 쫓아가는게 아니라 지금으로부터 만들어가는 것 입니다.
 
+*languages*: Javascript, Typescript
+
 *Libraries*: React.js
 
 *Styles*: css, styled-components
