@@ -4,7 +4,7 @@
 
 *languages*: Javascript, Typescript
 
-*Libraries*: React.js
+*Libraries*: React.js Next.Js(Study)
 
 *Styles*: css, styled-components
 
