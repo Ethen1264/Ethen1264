@@ -6,9 +6,9 @@
 
 *Libraries*: React.js Next.Js(Study)
 
-*Styles*: css, styled-components
+*Styles*: css, styled-components, emotion
 
-State Managements: recoil
+State Managements: recoil, zustand
 
 <!--
 **Ethen1264/Ethen1264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
