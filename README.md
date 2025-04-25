@@ -4,9 +4,9 @@
 
 *languages*: Javascript, Typescript
 
-*Libraries*: React.js Next.Js(Study)
+*Libraries*: React.js Next.Js
 
-*Styles*: css, styled-components, emotion
+*Styles*: css, styled-components, emotion, tailwind
 
 State Managements: recoil, zustand
 
