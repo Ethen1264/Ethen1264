@@ -2,13 +2,13 @@
 
 내일이란 쫓아가는게 아니라 지금으로부터 만들어가는 것 입니다.
 
-*languages*: Javascript, Typescript
+_languages_: Javascript, Typescript
 
-*Libraries*: React.js Next.Js
+_Libraries_: React.js Next.Js
 
-*Styles*: css, styled-components, emotion, tailwind
+_Styles_: css, styled-components, emotion, tailwind
 
-State Managements: recoil, zustand
+State Managements: recoil, zustand, redux
 
 <!--
 **Ethen1264/Ethen1264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
