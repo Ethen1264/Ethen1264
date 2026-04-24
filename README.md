@@ -1,7 +1,5 @@
 ### I`m front-end developer 👋
 
-내일이란 쫓아가는게 아니라 지금으로부터 만들어가는 것 입니다.
-
 _languages_: Javascript, Typescript
 
 _Libraries_: React.js Next.Js
